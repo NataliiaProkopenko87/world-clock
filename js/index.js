@@ -38,6 +38,7 @@ cityTimeZone = moment.tz.guess();
       "A"
     )}</small></div>
     </div>
+    <a href="/">All cities</a>
     `;
   }
 
